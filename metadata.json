@@ -1,0 +1,6 @@
+{
+  "name": "BSPinternet Activated",
+  "description": "Client login and admin dashboard for BSPinternet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
